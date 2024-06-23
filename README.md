@@ -1,6 +1,6 @@
 # Data To Decisions Qlik Journey Through LendingClub Issued Loans Analysis (Qlik) #
 
-##Project Flow
+## Project Flow
 To accomplish this, we have to complete all the activities listed below,
 
 Define Problem / Problem Understanding
