@@ -13,7 +13,7 @@ Literature Survey
 
 Data Collection 
 
-Collect the dataset,
+Collect the dataset
 
 Connect Data with Qlik Sense
 
