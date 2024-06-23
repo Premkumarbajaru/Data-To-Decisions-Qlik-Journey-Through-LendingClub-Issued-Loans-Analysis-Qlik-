@@ -1,7 +1,7 @@
 # Data To Decisions Qlik Journey Through LendingClub Issued Loans Analysis (Qlik) #
 
-## Project Flow
-To accomplish this, we have to complete all the activities listed below,
+#  Specify The Business Problem #
+## The specific business problem revolves around the inadequacy of the current lending strategy, which is not sufficiently informed by comprehensive insights derived from LendingClub loan data. The institution struggles to assess borrower behavior and market dynamics effectively, resulting in challenges such as inaccurate risk identification, difficulties in predicting loan default rates, and the inability to dynamically adjust lending criteria to respond to evolving market conditions. ##
 
 Define Problem / Problem Understanding
 
